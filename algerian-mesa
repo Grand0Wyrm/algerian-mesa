@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Algerian Mesa';
+  src: url('https://github.com/DrZed/JetBrains/JetBrainsMono/jetbrains.ttf') format('ttf'),
+    
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
